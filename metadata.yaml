@@ -1,0 +1,32 @@
+_repo: Gramp_61186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Vet, Charles V.
+    aliases:
+    - Vet, Charles Vincent de
+    - DeVet, Charles V.
+    - Vet, Charles V. de
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_issued: '2020-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Grandparent and child -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- GITenberg
+title: Gramp
+url: http://www.gutenberg.org/ebooks/61186
